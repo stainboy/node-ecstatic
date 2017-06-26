@@ -13,5 +13,8 @@
   "contentType": "application/octet-stream",
   "weakEtags": true,
   "weakCompare": true,
-  "handleOptionsMethod": false
+  "handleOptionsMethod": false,
+  "mimeTypes": {
+    "text/plain": ["dockerfile", "properties"]
+  }
 }
